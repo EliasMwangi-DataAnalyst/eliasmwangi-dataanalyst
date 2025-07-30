@@ -1,8 +1,8 @@
 ## Hi there 👋
 My name is Elias Mwangi. A data enthusiasts with a background in construction and tertiary education fields. 
-- 🛠️I'm currently working on...
-- 🔍I'm currently learning on...
-- 🤝I'm looking to collaborate on...
+- 🛠️I'm currently working on career development
+- 🔍I'm currently learning on Machine learning
+- 🤝I'm looking to collaborate on everything Data Analytics
 
 
 <!--
