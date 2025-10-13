@@ -1,4 +1,10 @@
 ## Hi there 👋
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{eliasmwangi-dataanalyst}/count.svg" alt="Visitor's Count" />
+</div>
+
 My name is Elias Mwangi. A data enthusiasts with a background in construction and tertiary education fields. 
 - 🛠️I'm currently working on career development
 - 🔍I'm currently learning on Machine learning
