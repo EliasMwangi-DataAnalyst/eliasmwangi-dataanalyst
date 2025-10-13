@@ -28,7 +28,7 @@ A data enthusiast with a background in construction and tertiary education field
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,excel,powerbi,sql,mongodb,postgres" />  
+  <img src="https://skillicons.dev/icons?i=python,ai,sql,mongodb,postgres" />  
 </p>
 
 <hr>
