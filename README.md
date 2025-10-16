@@ -43,6 +43,10 @@ A data enthusiast with a background in construction and tertiary education field
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=eliasmwangi-dataanalyst&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="EliasMWangi's Most Used Languages" />
 </div>
 
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <hr>
 <!--
 **EliasMwangi-DataAnalyst/eliasmwangi-dataanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
