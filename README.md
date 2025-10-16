@@ -45,6 +45,11 @@ A data enthusiast with a background in construction and tertiary education field
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Classification in Machine Learning: How Supervised Learning Powers AI](https://medium.com/@contentwriterelias/classification-in-machine-learning-how-supervised-learning-powers-ai-06b4797c4a9b?source=rss-e8ba6fb044bf------2)
+- [Debugging Type I and Type II Errors for Data Analysis](https://medium.com/@contentwriterelias/debugging-type-i-and-type-ii-errors-for-data-analysis-d87871661138?source=rss-e8ba6fb044bf------2)
+- [A Data-Focused Look at EPL Teams: Which Premier League Teams Win More](https://medium.com/@contentwriterelias/a-data-focused-look-at-epl-teams-which-premier-league-teams-win-more-7996009c6950?source=rss-e8ba6fb044bf------2)
+- [Why the ‘Middle’ Matters in Data Science](https://medium.com/@contentwriterelias/why-the-middle-matters-in-data-science-0e2c7037945a?source=rss-e8ba6fb044bf------2)
+- [First Steps With Excel for Data Analysis: Get Started Easy with Categories](https://medium.com/@contentwriterelias/first-steps-with-excel-for-data-analysis-get-started-easy-with-categories-d271a769deb4?source=rss-e8ba6fb044bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
